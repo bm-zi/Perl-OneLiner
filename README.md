@@ -35,3 +35,4 @@ When you are submitting your input data then the 4th new window appears in butto
 You now see the window which is the result of processing input data. 
 An option for download is also available to have the result copied in a file.
 
+![oneLiner](https://user-images.githubusercontent.com/33130624/55904060-01d15580-5b9d-11e9-88dc-f3dae663ffa3.gif)
